@@ -382,7 +382,6 @@ DOMAIN-SUFFIX,nginxproxymanager.com
 DOMAIN-SUFFIX,ip.zxinc.org
 DOMAIN-SUFFIX,netcup.eu
 DOMAIN-SUFFIX,hetzner.com
-
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,tracker.qhimg.com
 DOMAIN-SUFFIX,tracker.empornium.sx
@@ -393,12 +392,10 @@ DOMAIN-SUFFIX,tracker.keepfrds.com
 DOMAIN-SUFFIX,tracker.morethantv.me
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,please.passthepopcorn.me
-
 DOMAIN-SUFFIX,seedhost.eu
 DOMAIN-SUFFIX,pub-api-1.bianyuan.xyz
 DOMAIN-SUFFIX,api.xiaoheihe.cn
 IP-CIDR,45.63.58.174/32
-
 DOMAIN-SUFFIX,tracker.pterclub.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,vultr.com
@@ -406,7 +403,6 @@ PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,utorrent.exe
 PROCESS-NAME,qq.exe
 PROCESS-NAME,WeChatAppEx.exe
-
 DOMAIN-KEYWORD,www.stonestudio2015.com,REJECT
 DOMAIN-KEYWORD,b0x.cc
 DOMAIN-KEYWORD,morethantv.me
