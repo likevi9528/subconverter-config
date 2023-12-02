@@ -3,13 +3,13 @@
 ## jsdeliver 
 
 ```
-https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/file
+https://cdn.jsdelivr.net/gh/likevi9528/subconverter-config@master/file
 ```
 
 ## githubusercontent
 
 ```
-https://raw.githubusercontent.com//SleepyHeeead/subconverter-config/file
+https://raw.githubusercontent.com//likevi9528/subconverter-config/file
 ```
 
 ## ref
